@@ -4,6 +4,11 @@
 $ python3 adversarial.py cat1.png cat2.png dog1.png
 ```
 
+```bash
+$ python3 predict.py adversarial_cat1.png adversarial_cat2.png adversarial_dog1.png
+```
+![](https://i.imgur.com/3z0asVa.png)
+
 For more details about implement, please refer to adversarial-machine-learning-slide.pdf.
 
 # Adversarial Machine Learning
