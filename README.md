@@ -1,3 +1,9 @@
+# Usage
+
+```bash
+$ python3 adversarial.py cat1.png cat2.png dog1.png
+```
+
 # Adversarial Machine Learning
 
 The widespread use of artificial intelligence (AI) in today's computer systems incurs a new attack vector for computer security, as the AI can be fooled to take incorrect or even unsafe actions.
